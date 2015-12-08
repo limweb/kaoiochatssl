@@ -6,9 +6,10 @@ A simple chat demo for koa.io
 ## How to use
 
 ```
-$ cd koa.io
+$ cd koaiochat
 $ npm install
-$ node --harmony example/chat
+$ server.bat  for http://0.0.0.0:3000
+$ sslserver.bat  for https://0.0.0.0  
 ```
 
 And point your browser to `http://localhost:3000`. Optionally, specify
